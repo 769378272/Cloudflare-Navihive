@@ -6,7 +6,7 @@
     "$schema": "node_modules/wrangler/config-schema.json",
     "name": "navihive",
     "main": "worker/index.ts",
-    "compatibility_date": "2025-04-05",
+    "compatibility_date": "2025-11-06",
     "assets": {
         "not_found_handling": "single-page-application"
     },
